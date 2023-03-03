@@ -49,7 +49,7 @@ namespace inheritance
             Console.WriteLine(FirstName + " " + LastName + '\n' + "Age: " + Age + '\n' + "Занимает должность: " + Position);
         }
     }
-    internal class Bomsh : Personal // наслдование
+    internal class Bomsh : Personal // наследование
     {
         private string residence;
         public string Residence
