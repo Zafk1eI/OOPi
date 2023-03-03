@@ -1,0 +1,8 @@
+C:\Users\Sint\Desktop\И10\incap\incap\obj\Debug\incap.csproj.AssemblyReference.cache
+C:\Users\Sint\Desktop\И10\incap\incap\obj\Debug\incap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sint\Desktop\И10\incap\incap\obj\Debug\incap.csproj.CoreCompileInputs.cache
+C:\Users\Sint\Desktop\И10\incap\incap\bin\Debug\incap.exe.config
+C:\Users\Sint\Desktop\И10\incap\incap\bin\Debug\incap.exe
+C:\Users\Sint\Desktop\И10\incap\incap\bin\Debug\incap.pdb
+C:\Users\Sint\Desktop\И10\incap\incap\obj\Debug\incap.exe
+C:\Users\Sint\Desktop\И10\incap\incap\obj\Debug\incap.pdb
