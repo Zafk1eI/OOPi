@@ -1,0 +1,8 @@
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\bin\Debug\BASIS.exe.config
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\bin\Debug\BASIS.exe
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\bin\Debug\BASIS.pdb
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\obj\Debug\BASIS.csproj.AssemblyReference.cache
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\obj\Debug\BASIS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\obj\Debug\BASIS.csproj.CoreCompileInputs.cache
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\obj\Debug\BASIS.exe
+C:\Users\Sint\Desktop\И10\BASIS\BASIS\obj\Debug\BASIS.pdb
